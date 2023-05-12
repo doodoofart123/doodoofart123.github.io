@@ -1,0 +1,51 @@
+a {
+ display: flex;
+    justify-content: center;
+    color: #17c200;
+text-align: center;
+}
+
+a:hover {
+    rotate: 10deg;
+    transition: 1s;
+    color: goldenrod;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+    background-color: #ffffff;
+}
+
+h1{
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+}
+
+h2{
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+}
+
+h3{
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+}
+
+ul{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 30px
+}
+
+p{
+    display: flex;
+    font-size: 30px;
+    justify-content: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}

@@ -1,0 +1,30 @@
+a {
+ display: flex;
+    justify-content: center;
+    color: #17c200;
+text-align: center;
+}
+
+a:hover {
+    rotate: 10deg;
+    transition: 1s;
+    color: goldenrod;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+    background-color: #ffffff;
+}
+
+h1{
+    justify-content: center;
+    display: flex;
+    font-size: 100px;
+}
+
+img{
+    justify-content: center;
+    display: flex;
+}
+
